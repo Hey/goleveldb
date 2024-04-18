@@ -1,4 +1,4 @@
-module github.com/syndtr/goleveldb
+module github.com/hey/goleveldb
 
 require (
 	github.com/0xProject/qunit v0.0.0-20190730000255-81c18fdf7752
